@@ -1,0 +1,6 @@
+div p{
+	color: red;
+}
+li::marker{
+			color: red;
+		}
